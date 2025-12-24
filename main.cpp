@@ -347,7 +347,7 @@ int main() {
             reverse_three_sentences_from_file(fname.c_str());
 
         } else {
-            std::cout << "Неизвестный пункт меню.\n";
+            std::cout << "Неизвестный пункт.\n";
         }
     }
 
